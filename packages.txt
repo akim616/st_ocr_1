@@ -1,4 +1,4 @@
-numpy
+numpy-dev
 opencv-python-headless
 Pillow
 tesseract-ocr
